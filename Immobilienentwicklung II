@@ -1,0 +1,110 @@
+BEGIN:VCALENDAR
+PRODID:-//Cedric Uni Calendar//Immobilienentwicklung II//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:57acd2d5-24e3-4749-a3ff-3964fdb4efe4@generated
+DTSTAMP:20251010T092247Z
+SUMMARY:Immobilienentwicklung II – Repetitorium Immobilienentwicklung I
+DTSTART;TZID=Europe/Berlin:20251015T1300
+DTEND;TZID=Europe/Berlin:20251015T1600
+DESCRIPTION:Referent: Lukas Lautenschläger
+END:VEVENT
+BEGIN:VEVENT
+UID:b332a515-64af-4688-a95f-8bfe9fec8cc2@generated
+DTSTAMP:20251010T092247Z
+SUMMARY:Immobilienentwicklung II – Aktueller Stand und Entwicklungstendenzen in der Projektentwicklung
+DTSTART;TZID=Europe/Berlin:20251022T1200
+DTEND;TZID=Europe/Berlin:20251022T1800
+DESCRIPTION:Referent: Prof. Dr. Stephan Bone-Winkel
+END:VEVENT
+BEGIN:VEVENT
+UID:c3e03306-49b3-4843-ac62-40734f51eefe@generated
+DTSTAMP:20251010T092247Z
+SUMMARY:Immobilienentwicklung II – Legal Due Diligence
+DTSTART;TZID=Europe/Berlin:20251029T1300
+DTEND;TZID=Europe/Berlin:20251029T1600
+DESCRIPTION:Referent: Aldo Trentinaglia
+END:VEVENT
+BEGIN:VEVENT
+UID:01b3f613-875f-4d3e-9080-a99f4926a706@generated
+DTSTAMP:20251010T092247Z
+SUMMARY:Immobilienentwicklung II – Technische Due Diligence
+DTSTART;TZID=Europe/Berlin:20251105T1300
+DTEND;TZID=Europe/Berlin:20251105T1600
+DESCRIPTION:Referent: Thomas Portmann
+END:VEVENT
+BEGIN:VEVENT
+UID:b9a56003-d638-4554-99d6-cf9a912a65cd@generated
+DTSTAMP:20251010T092247Z
+SUMMARY:Immobilienentwicklung II – Bauprojektmanagement
+DTSTART;TZID=Europe/Berlin:20251119T1300
+DTEND;TZID=Europe/Berlin:20251119T1600
+DESCRIPTION:Referent: Johannes Nöldeke
+END:VEVENT
+BEGIN:VEVENT
+UID:bab454d0-7806-4a43-88c2-225561094603@generated
+DTSTAMP:20251010T092247Z
+SUMMARY:Immobilienentwicklung II – Bautechnische Grundlagen in der Projektentwicklung
+DTSTART;TZID=Europe/Berlin:20251126T1300
+DTEND;TZID=Europe/Berlin:20251126T1600
+DESCRIPTION:Referent: Dr. Philipp Feldmann
+END:VEVENT
+BEGIN:VEVENT
+UID:4ebca85d-be3f-4265-9d36-72614c7cc477@generated
+DTSTAMP:20251010T092247Z
+SUMMARY:Immobilienentwicklung II – Projektentwicklung von Wohnimmobilien
+DTSTART;TZID=Europe/Berlin:20251203T1300
+DTEND;TZID=Europe/Berlin:20251203T1600
+DESCRIPTION:Referent: Dr. Marian Dietzel
+END:VEVENT
+BEGIN:VEVENT
+UID:0b6baa59-a30b-4cfd-8996-5aa4ba85f434@generated
+DTSTAMP:20251010T092247Z
+SUMMARY:Immobilienentwicklung II – Projektentwicklung von Gewerbeimmobilien
+DTSTART;TZID=Europe/Berlin:20251210T1300
+DTEND;TZID=Europe/Berlin:20251210T1600
+DESCRIPTION:Referent: Dr. Karim Rochdi
+END:VEVENT
+BEGIN:VEVENT
+UID:8c53f74e-2ac0-4e4f-be63-147adc302ee5@generated
+DTSTAMP:20251010T092247Z
+SUMMARY:Immobilienentwicklung II – Quartiersentwicklung
+DTSTART;TZID=Europe/Berlin:20251217T1300
+DTEND;TZID=Europe/Berlin:20251217T1600
+DESCRIPTION:Referent: Dr. Karim Rochdi
+END:VEVENT
+BEGIN:VEVENT
+UID:dc0f06fd-51a2-480d-9d2e-b2c06071fbf4@generated
+DTSTAMP:20251010T092247Z
+SUMMARY:Immobilienentwicklung II – Nachhaltige Projektentwicklung im Bestand – Einblicke aus der Praxis
+DTSTART;TZID=Europe/Berlin:20260107T1300
+DTEND;TZID=Europe/Berlin:20260107T1600
+DESCRIPTION:Referent: Johannes Greib
+END:VEVENT
+BEGIN:VEVENT
+UID:6b5ad3d9-ab48-49a4-a227-1a6b9f26f54e@generated
+DTSTAMP:20251010T092247Z
+SUMMARY:Immobilienentwicklung II – Kostenplanung und Baukostenkalkulation in der Projektentwicklung
+DTSTART;TZID=Europe/Berlin:20260114T1300
+DTEND;TZID=Europe/Berlin:20260114T1600
+DESCRIPTION:Referent: Matthias Werner
+END:VEVENT
+BEGIN:VEVENT
+UID:10f34374-d545-40a3-9a5b-6a75a904b7a1@generated
+DTSTAMP:20251010T092247Z
+SUMMARY:Immobilienentwicklung II – Private Equity in Real Estate Development
+DTSTART;TZID=Europe/Berlin:20260121T1300
+DTEND;TZID=Europe/Berlin:20260121T1600
+DESCRIPTION:Referent: Daniel Bösl
+END:VEVENT
+BEGIN:VEVENT
+UID:659b51c3-174e-4841-8a27-68888a1818b5@generated
+DTSTAMP:20251010T092247Z
+SUMMARY:Immobilienentwicklung II – Wiederholungs- & Fragestunde
+DTSTART;TZID=Europe/Berlin:20260121T1630
+DTEND;TZID=Europe/Berlin:20260121T1730
+DESCRIPTION:Referent: Lukas Lautenschläger
+END:VEVENT
+END:VCALENDAR
